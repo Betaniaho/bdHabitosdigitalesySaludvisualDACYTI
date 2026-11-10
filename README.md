@@ -85,6 +85,7 @@ Las secciones centrales del instrumento, que evalúan los síntomas de ametropí
 
 6.	Finalmente, se aplicó un filtro de homogeneización poblacional, excluyendo del conjunto de datos de entrenamiento aquellos registros correspondientes a participantes de otras divisiones académicas distintas a la DACyTI, asegurando así que el modelo se ajuste específicamente al contexto tecnológico y educativo de la población objetivo. Se obtuvieron un total de 191 registros, que después de todo la limpieza y transformación de los datos, se trabajó con 170 registros de estudiantes que correspoden a estudiantes de la DACyTI.
  
+
 La base de datos final está integrada por 198 variables y 170 registros o instancias, con una edad promedio de 23 años, siendo 18 años la edad mínima y 55 años la edad máxima de muestra. En cuanto a la distribución por sexo, se observó una prevalencia del sexo masculino, representando el 68.8% (n = 117) frente al 31.1% (n = 53) del sexo femenino.
 
 
